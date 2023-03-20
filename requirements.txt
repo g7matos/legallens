@@ -1,4 +1,3 @@
 PyPDF2
-docx
 openai
-regex 
+python-docx
